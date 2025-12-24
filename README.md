@@ -60,7 +60,7 @@ $ sudo su
 # umount /mnt/test
 ```
 
-##Run benchmark
+## Run benchmark
 
 **stress**
 ```
